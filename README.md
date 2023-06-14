@@ -26,7 +26,7 @@ $ npm start
 $ npm install 
 ```
 
-5. 추가 라이브러리
+5. 추가 라이브러리 *설치하려는 프로젝트의 경로에서 라이브러리 다운
 ```
 $ npm install react-icons  // 아이콘
 $ npm install classnames   // 클래스 add/remove 편리한거
