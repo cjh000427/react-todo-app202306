@@ -41,7 +41,7 @@
             color: #919396;
             text-decoration: line-through;
         }
-    }
+    }   
 
     .remove {
         font-size: 28px;
@@ -51,10 +51,13 @@
         @include content-center;
 
         display: none;
-        
+
         &:hover svg {
             opacity: 0.6;
         }
     }
 
 }
+
+
+
